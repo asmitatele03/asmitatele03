@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Embedded Systems projects using ARM7, Linux, and microcontrollers.<br><br>🧠 I’m currently learning Linux (RHCSA), Embedded C.<br><br>🤝 I’m looking to collaborate on IoT, data Linux and embedded electronics projects.<br><br>🆘 I’m looking for help with advanced Linux concepts and real-time embedded applications.<br><br>🎯 My goal is to build a strong career in Linux and Embedded Systems.<br><br>🚀 Always curious, always building—growing one project at a time.
+🔭 I’m currently working on Embedded Systems projects using ARM7, Linux, and microcontrollers.<br><br>🧠 I’m currently learning Linux, Embedded C.<br><br>🤝 I’m looking to collaborate on IoT, data Linux and embedded electronics projects.<br><br>🆘 I’m looking for help with advanced Linux concepts and real-time embedded applications.<br><br>🎯 My goal is to build a strong career in Linux and Embedded Systems.<br><br>🚀 Always curious, always building—growing one project at a time.
 
 
 ## 🌐 Socials:
